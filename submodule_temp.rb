@@ -7,7 +7,12 @@ class SubmoduleTemp
     "This will test to see if I can update submodules correctly"
   end
 
+<<<<<<< Updated upstream
   def second_test_submodule_update
     "Let's test submodule update again!"
+=======
+  def test_update_submodule_within_parent
+    "This will test updating submodule within parent repo"
+>>>>>>> Stashed changes
   end
 end
