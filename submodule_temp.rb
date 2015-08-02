@@ -6,4 +6,8 @@ class SubmoduleTemp
   def testing_submodule_update
     "This will test to see if I can update submodules correctly"
   end
+
+  def second_test_submodule_update
+    "Let's test submodule update again!"
+  end
 end
